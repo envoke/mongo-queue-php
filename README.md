@@ -1,3 +1,5 @@
+:warning: ***This is an obsolete and unmaintaned fork of [traderinteractive/mongo-queue-php](https://github.com/traderinteractive/mongo-queue-php). All changes herein have been superseded upstream. Do not use this fork.***
+
 # mongo-queue-php
 [![Build Status](https://travis-ci.org/traderinteractive/mongo-queue-php.svg?branch=master)](https://travis-ci.org/traderinteractive/mongo-queue-php)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/traderinteractive/mongo-queue-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/traderinteractive/mongo-queue-php/?branch=master)
